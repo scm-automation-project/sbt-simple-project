@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="org.scalariform"
+		module="sbt-scalariform"
+		revision="1.8.3"
+		extra-scalaVersion="2.12"
+		extra-sbtVersion="1.0"
+		conf="plugin"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool, scripted-sbt, scripted-sbt-launch"
+		date="20210130133404"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>
